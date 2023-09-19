@@ -1,2 +1,2 @@
-# Analizador traductores
- Trabajos para la materia de seminario de traductores de lenguajes 2
+Aqui se implementara la gramatica del compilador
+//pendiente
